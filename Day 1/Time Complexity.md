@@ -1,4 +1,4 @@
-```
+```cpp
 	for(int i = 0; i < n; i++) {
 		// N times this code will execute
 		// TC : O(N)

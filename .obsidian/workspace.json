@@ -54,9 +54,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2443c2cf19e514e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 1/Time Complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18226d61c1bac559",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 1/Time Complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f8babcdf22d7cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 1/Estimate time complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44b12b27e22d7ec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 2/Sorting in c++.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76f12ff6b72e3405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 2/Search Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -75,7 +135,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -122,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 1/Time Complexity.md",
+                "file": "Day 2/Search Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 1/Time Complexity.md",
+                "file": "Day 2/Search Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 1/Time Complexity.md"
+                "file": "Day 2/Search Algorithm.md"
               }
             }
           },
@@ -191,10 +251,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dd84152be2183ae",
+  "active": "76f12ff6b72e3405",
   "lastOpenFiles": [
+    "Day 2/Sorting in c++.md",
+    "Day 2/Search Algorithm.md",
+    "Day 1/Finding the max_sub_array_sum.md",
+    "Day 1/Estimate time complexity.md",
     "Day 1/Introduction.md",
     "Day 1/Time Complexity.md",
+    "Untitled 1.md",
     "Untitled.md"
   ]
 }
