@@ -58,3 +58,13 @@ Code:
 
 Time Complexity: $O(logN)$ where $N$ is size of the array
 
+Problem Link:
+- [704. Binary Search](https://leetcode.com/problems/binary-search/description/)
+- [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+
+
+
+
+
+
+
