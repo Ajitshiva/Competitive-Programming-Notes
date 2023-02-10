@@ -114,9 +114,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4b2236e55d08c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 2/C++ Functions based on binary search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9fc00c3c189c44b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 3/STL (Standard Template Library).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -182,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 2/Search Algorithm.md",
+                "file": "Day 3/STL (Standard Template Library).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 2/Search Algorithm.md",
+                "file": "Day 3/STL (Standard Template Library).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 2/Search Algorithm.md"
+                "file": "Day 3/STL (Standard Template Library).md"
               }
             }
           },
@@ -251,14 +275,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76f12ff6b72e3405",
+  "active": "c9fc00c3c189c44b",
   "lastOpenFiles": [
-    "Day 2/Sorting in c++.md",
+    "Day 2/C++ Functions based on binary search.md",
     "Day 2/Search Algorithm.md",
+    "Day 2/Sorting in c++.md",
     "Day 1/Finding the max_sub_array_sum.md",
     "Day 1/Estimate time complexity.md",
-    "Day 1/Introduction.md",
     "Day 1/Time Complexity.md",
+    "Day 1/Introduction.md",
+    "Day 3/STL (Standard Template Library).md",
     "Untitled 1.md",
     "Untitled.md"
   ]

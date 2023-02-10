@@ -61,6 +61,27 @@ Time Complexity: $O(logN)$ where $N$ is size of the array
 Problem Link:
 - [704. Binary Search](https://leetcode.com/problems/binary-search/description/)
 - [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+```cpp
+
+int mySqrt(int x) {
+	// T T T T T F F F F F
+	// We have to find the last T in this sequence
+	// l always lies in T
+	// r always lies in F
+	long long int l = 0, r = x + 1;
+	while(l + 1 < r) {
+		long long int mid = l + (r - l) / 2;
+		if(mid * 1LL * mid <= x) {
+			l = mid;
+		} else {
+			r = mid;	
+		}
+	}
+	return l;
+}
+	
+	
+```
 
 
 
